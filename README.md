@@ -28,3 +28,4 @@ contact email:
 
 artavl26@gmail.com
 
+submit50 cs50/problems/2022/x/project
